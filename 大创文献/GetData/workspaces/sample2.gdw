@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetDataWorkspace>
+  <version>2.22</version>
+  <File>
+    <Name>..\graphs\sample2.tif</Name>
+    <Width>1152</Width>
+    <Height>798</Height>
+  </File>
+  <Line>
+    <Caption>Line #1</Caption>
+    <LineColor>72,72,72</LineColor>
+    <BkColor>255,255,255</BkColor>
+    <PtColor>220,70,220</PtColor>
+    <LineType>0</LineType>
+    <Points MF="9">2853,2604,2912,2644,2974,2682,3036,2719,3097,2757,3158,2797,3218,2835,3281,2873,3343,2909,3402,2949</Points>
+    <Points MF="9">3582,3072,3704,3150,3823,3230,3883,3270,3944,3310,4003,3352,4064,3391,4125,3430,4290,3578,4338,3641</Points>
+    <Points MF="9">4387,3701,4434,3764,4485,3824,4532,3888,4581,3947,4629,4009,4677,4072,4724,4136,4772,4199,4821,4261</Points>
+    <Points MF="9">4991,4399,5129,4446,5267,4494,5404,4545,5657,4682,5707,4741,5752,4808,5802,4867,5848,4934,5895,4997</Points>
+    <Points MF="9">5944,5060,5990,5124,6042,5194,6086,5250,6181,5377,6227,5442,6276,5502,6363,5646,6447,5792,6533,5936</Points>
+    <Points MF="9">6577,6006</Points>
+  </Line>
+  <Line>
+    <Caption>Line #2</Caption>
+    <LineColor>72,72,72</LineColor>
+    <BkColor>255,255,255</BkColor>
+    <PtColor>230,220,20</PtColor>
+    <LineType>0</LineType>
+    <Points MF="9">2229,3681,2326,3664,2539,3604,2643,3578,2870,3626,2914,3690,2956,3757,2999,3823,3086,3953,3129,4017</Points>
+    <Points MF="9">3171,4083,3215,4148,3301,4279,3342,4348,3384,4413,3429,4477,3617,4584,3709,4576,3801,4567,3892,4561</Points>
+    <Points MF="9">3988,4545,4080,4539,4300,4598,4344,4660,4392,4718,4535,4893,4581,4953,4630,5010,4677,5071,4724,5129</Points>
+    <Points MF="9">4771,5189,4819,5247,4955,5433,4998,5496,5043,5559,5088,5623,5132,5685,5176,5751,5222,5811,5262,5870</Points>
+    <Points MF="9">5355,6001</Points>
+  </Line>
+  <Line>
+    <Caption>Line #3</Caption>
+    <LineColor>72,72,72</LineColor>
+    <BkColor>255,255,255</BkColor>
+    <PtColor>255,20,160</PtColor>
+    <LineType>0</LineType>
+    <Points MF="9">2170,1813,2269,1770,2368,1727,2468,1686,2567,1643,2664,1597,2857,1663,2926,1746,2997,1828,3067,1910</Points>
+    <Points MF="9">3131,1997,3202,2078,3267,2165,3338,2247,3403,2333,3683,2469,3790,2479,3898,2484,4006,2489,4114,2498</Points>
+    <Points MF="9">4304,2490,4412,2481,4519,2471,4627,2461,4734,2451,5022,2532,5104,2603,5185,2675,5266,2746,5347,2818</Points>
+    <Points MF="9">5428,2889,5509,2960,5665,3062,5768,3095,5871,3129,5973,3166,6075,3201,6177,3237,6477,3340,6580,3374</Points>
+    <Points MF="9">6682,3410,6783,3447,6885,3481,7075,3583,7132,3674,7189,3766,7245,3858,7299,3952,7355,4044,7412,4135</Points>
+    <Points MF="9">7466,4228,7521,4321,7577,4413,7634,4504,7625,4490,7669,4566,7677,4585,7795,4732,7875,4805,7955,4877</Points>
+    <Points MF="9">8035,4950,8115,5023,8192,5099,8271,5173,8350,5246,8491,5405,8549,5496,8603,5589,8658,5682,8714,5775</Points>
+    <Points MF="9">8770,5867,8826,5959</Points>
+  </Line>
+  <CurrentLine>2</CurrentLine>
+  <Xmin MF="9">1377,6129,3.000000e+000</Xmin>
+  <Xmax MF="9">8459,6047,2.300000e+001</Xmax>
+  <Ymin MF="9">1377,6129,1.000000e+003</Ymin>
+  <Ymax MF="9">1345,1120,1.000000e+010</Ymax>
+  <XScale>linear</XScale>
+  <YScale>logarithmic</YScale>
+  <Position>463,111</Position>
+  <Zoom>
+    <Scale>100.0</Scale>
+  </Zoom>
+  <Digitize>
+    <IgnorePixels>1</IgnorePixels>
+    <LineIDMethod>2</LineIDMethod>
+  </Digitize>
+  <AutoTrace>
+    <TraceDistance>12</TraceDistance>
+    <SmoothLines>0</SmoothLines>
+  </AutoTrace>
+  <DigitizeArea>
+    <LineOrArea>0</LineOrArea>
+    <AreaType>0</AreaType>
+    <GridType>0</GridType>
+    <GoThroughX>3.00000000000000e+000</GoThroughX>
+    <GoThroughY>1.00000000000000e+003</GoThroughY>
+    <ShiftX>1</ShiftX>
+    <ShiftY>1</ShiftY>
+    <RotateAngle>-0.586539</RotateAngle>
+    <dx>8.000000</dx>
+  </DigitizeArea>
+  <GridSettings>
+    <ShowGrid>1</ShowGrid>
+    <AreaType>1</AreaType>
+    <deltaX>2.00000000000000e+000</deltaX>
+    <deltaY>1.00000000000000e+001</deltaY>
+    <deltaXUnits>1</deltaXUnits>
+    <deltaYUnits>1</deltaYUnits>
+    <GoThroughX>3.00000000000000e+000</GoThroughX>
+    <GoThroughY>1.00000000000000e+003</GoThroughY>
+    <dx>15.000000</dx>
+    <dy>15.000000</dy>
+  </GridSettings>
+</GetDataWorkspace>

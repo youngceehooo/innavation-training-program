@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetDataWorkspace>
+  <version>2.22</version>
+  <File>
+    <Name>..\graphs\sample3.pcx</Name>
+    <Width>978</Width>
+    <Height>482</Height>
+  </File>
+  <Line>
+    <Caption>Line #1</Caption>
+    <LineColor>0,147,255</LineColor>
+    <BkColor>255,255,255</BkColor>
+    <PtColor>220,70,220</PtColor>
+    <LineType>0</LineType>
+    <Points MF="9">1804,3308,1904,3349,2005,3387,2104,3429,2206,3466,2307,3503,2406,3545,2507,3583,2609,3619,2711,3654</Points>
+    <Points MF="9">2813,3689,2917,3718,3020,3750,3124,3781,3229,3807,3335,3825,3442,3835,3550,3843,3657,3827,3754,3780</Points>
+    <Points MF="9">3817,3693,3825,3585,3806,3479,3775,3375,3738,3273,3696,3173,3648,3077,3597,2982,3545,2888,3492,2794</Points>
+    <Points MF="9">3443,2698,3391,2603,3337,2510,3283,2416,3229,2322,3175,2228,3126,2132,3076,2036,3025,1941,2982,1842</Points>
+    <Points MF="9">2941,1742,2906,1640,2887,1534,2882,1426,2924,1327,3010,1262,3116,1239,3224,1241,3331,1251,3437,1269</Points>
+    <Points MF="9">3543,1292,3646,1323,3750,1351,3854,1378,3955,1415,4057,1452,4159,1489,4261,1524,4362,1563,4463,1600</Points>
+    <Points MF="9">4564,1638,4665,1675,4763,1719,4865,1756,4965,1797,5065,1837,5166,1877,5266,1917,5367,1954,5466,1997</Points>
+    <Points MF="9">5567,2035,5668,2073,5767,2115,5869,2152,5970,2189,6069,2231,6171,2268,6273,2304,6377,2333,6479,2368</Points>
+    <Points MF="9">6582,2399,6685,2430,6791,2452,6896,2476,7003,2494,7111,2502,7218,2492,7321,2460,7394,2381,7417,2276</Points>
+    <Points MF="9">7405,2169,7369,2067,7333,1965,7297,1863,7253,1764,7200,1670,7153,1573,7099,1479,7049,1384,6999,1288</Points>
+    <Points MF="9">6945,1194,6893,1100,6838,1007,6784,913,6732,818,6685,721,6641,623,6589,528,6543,430</Points>
+  </Line>
+  <CurrentLine>0</CurrentLine>
+  <Xmin MF="9">3504,3957,-2.000000e+000</Xmin>
+  <Xmax MF="9">8082,2246,6.000000e+000</Xmax>
+  <Ymin MF="9">2736,4177,-1.000000e+000</Ymin>
+  <Ymax MF="9">261,2291,1.000000e+000</Ymax>
+  <XScale>linear</XScale>
+  <YScale>linear</YScale>
+  <Position>389,137</Position>
+  <Zoom>
+    <Scale>60.0</Scale>
+  </Zoom>
+  <Digitize>
+    <IgnorePixels>1</IgnorePixels>
+    <LineIDMethod>2</LineIDMethod>
+  </Digitize>
+  <AutoTrace>
+    <TraceDistance>12</TraceDistance>
+    <SmoothLines>1</SmoothLines>
+  </AutoTrace>
+  <DigitizeArea>
+    <LineOrArea>0</LineOrArea>
+    <AreaType>0</AreaType>
+    <GridType>1</GridType>
+    <GoThroughX>-2.00000000000000e+000</GoThroughX>
+    <GoThroughY>-1.00000000000000e+000</GoThroughY>
+    <ShiftX>1</ShiftX>
+    <ShiftY>1</ShiftY>
+    <RotateAngle>0.000000</RotateAngle>
+    <dx>8.000000</dx>
+  </DigitizeArea>
+  <GridSettings>
+    <ShowGrid>1</ShowGrid>
+    <AreaType>1</AreaType>
+    <deltaX>1.00000000000000e+000</deltaX>
+    <deltaY>5.00000000000000e-001</deltaY>
+    <deltaXUnits>1</deltaXUnits>
+    <deltaYUnits>1</deltaYUnits>
+    <GoThroughX>-2.00000000000000e+000</GoThroughX>
+    <GoThroughY>-1.00000000000000e+000</GoThroughY>
+    <dx>15.000000</dx>
+    <dy>15.000000</dy>
+  </GridSettings>
+</GetDataWorkspace>
